@@ -1,0 +1,22 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llccing-demo/ECMAScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llccing-demo/ECMAScript/issues"
+  },
+  "homepage": "https://github.com/llccing-demo/ECMAScript#readme",
+  "dependencies": {
+    "fs-readfile-promise": "^3.0.1"
+  }
+}
